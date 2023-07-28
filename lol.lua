@@ -1,0 +1,7 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Fadeclips v2 | got an new menu use it today!","All")
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("get good get Fadeclips","All")
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(".gg/FYD2Ycvfp7","All")
+wait(3)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Last Message | Get fadeclips now or an scary person will appear under your bed tonight.","All")
